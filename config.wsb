@@ -1,0 +1,63 @@
+<!--XML comment-->
+
+ 
+
+<Configuration>
+
+<VGpu>Enable</VGpu>
+
+ 
+
+<MemoryInMB>6000</MemoryInMB>
+
+ 
+
+<Networking>Default</Networking>
+
+ 
+
+<MappedFolders>
+
+    <MappedFolder>
+
+      <HostFolder></HostFolder>
+
+      <SandboxFolder></SandboxFolder>
+
+      <ReadOnly></ReadOnly>
+
+    </MappedFolder>
+
+  </MappedFolders>
+
+  <LogonCommand>
+
+  </LogonCommand>
+
+ 
+
+<AudioInput>Disable</AudioInput>
+
+ 
+
+<VideoInput>Default</VideoInput>
+
+ 
+
+<ProtectedClient>Default</ProtectedClient>
+
+ 
+
+<PrinterRedirection>Default</PrinterRedirection>
+
+ 
+
+<ClipboardRedirection>Disable</ClipboardRedirection>
+
+ 
+
+</Configuration>
+
+ 
+
+ 
